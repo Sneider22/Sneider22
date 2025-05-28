@@ -14,7 +14,7 @@
 
 ## 📊 Data Analysis
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 <!--
 **Sneider22/Sneider22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
