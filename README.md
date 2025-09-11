@@ -23,7 +23,7 @@
 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-![Sneider22's Stats](https://github-readme-stats.vercel.app/api?username=Sneider22&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-![Sneider22's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sneider22&theme=tokyonight&hide_border=false)
+| ![Sneider22's Stats](https://github-readme-stats.vercel.app/api?username=Sneider22&theme=tokyonight) | ![Sneider22's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sneider22&theme=tokyonight) |
+
 
 
