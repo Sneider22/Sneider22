@@ -2,9 +2,9 @@
 
 ## GitHub Purpose
 
-* **Documentar mi aprendizaje continuo** en lenguajes, *frameworks* y herramientas.
-* **Mostrar mis proyectos personales**.
-* **Contribuir** a proyectos *open source*.
+* **Document my ongoing learning of languages, frameworks, and tools.**
+* **Showcase my personal projects.**
+* **Contribute to open source projects.**
 
 ---
 
