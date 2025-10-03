@@ -1,7 +1,5 @@
 # Hi, I'm Sneider Araque
 
----
-
 ## GitHub Purpose
 
 * **Document my ongoing learning of languages, frameworks, and tools.**
