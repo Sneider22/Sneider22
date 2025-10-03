@@ -35,5 +35,5 @@
 
 ---
 
-| ![Sneider22's Stats](https://github-readme-stats.vercel.app/api?username=Sneider22&theme=tokyonight) | ![Sneider22's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sneider22&theme=tokyonight) |
+| ![Sneider22's Stats](https://github-readme-stats.vercel.app/api?username=Sneider22&theme=tokyonight&show_icons=true) | ![Sneider22's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sneider22&theme=tokyonight) |
 | --- | --- |
