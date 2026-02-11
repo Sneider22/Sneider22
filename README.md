@@ -35,6 +35,11 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sneider22&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sneider22&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 
-| ![Sneider22's Stats](https://github-readme-stats.vercel.app/api?username=Sneider22&theme=tokyonight&show_icons=true) | ![Sneider22's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sneider22&theme=tokyonight) |
-| --- | --- |
+
+
