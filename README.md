@@ -20,17 +20,12 @@
 
 ---
 
-## 🛠️ Herramientas
+## 🛠️ Herramientas, Análisis y Bases de Datos 
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Cursor](https://img.shields.io/badge/Cursor-FFFFFF?style=for-the-badge&logo=cursor&logoColor=black)
 ![Netlify](https://img.shields.io/badge/Netlify-8C182F?style=for-the-badge&logo=netlify&logoColor=white)
-
----
-
-## 📊 Bases de Datos y Análisis de Datos
-
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
