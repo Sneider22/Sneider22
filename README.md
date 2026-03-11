@@ -27,6 +27,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Cursor](https://img.shields.io/badge/Cursor-FFFFFF?style=for-the-badge&logo=cursor&logoColor=black)
 ![Netlify](https://img.shields.io/badge/Netlify-8C182F?style=for-the-badge&logo=netlify&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 
 ## 📊 Bases de Datos y Análisis de Datos
 
