@@ -5,7 +5,7 @@
 * **Documentar mi aprendizaje continuo de lenguajes, frameworks y herramientas.**
 * **Mostrar mis proyectos personales.**
 * **Contribuir a proyectos de código abierto.**
-* **Desarrollar soluciones tecnológicas enfocadas en la optimización de procesos empresariales.**
+* **Desarrollar soluciones tecnológicas enfocadas en la optimización de procesos.**
 
 ---
 
