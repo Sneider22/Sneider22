@@ -1,15 +1,15 @@
-# Hola, soy Sneider Araque
+# Hi, I'm Sneider Araque
 
-## Propósito de mi GitHub
+## Purpose of my GitHub
 
-* **Documentar mi aprendizaje continuo de lenguajes, frameworks y herramientas.**
-* **Mostrar mis proyectos personales.**
-* **Contribuir a proyectos de código abierto.**
-* **Desarrollar soluciones tecnológicas enfocadas en la optimización de procesos.**
+* **Documenting my continuous learning of languages, frameworks, and tools.**
+* **Showcasing my personal projects.**
+* **Contributing to open-source projects.**
+* **Developing technological solutions focused on process optimization.**
 
 ---
 
-## Stack de Desarrollo Web (Modern Architecture)
+## Web Development Stack (Modern Architecture)
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -27,7 +27,7 @@
 
 ---
 
-### Formación Académica - Lenguajes
+### Academic Background - Languages
 
 ![C](https://img.shields.io/badge/C-FFFFFF?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -36,7 +36,7 @@
 
 ---
 
-###  Herramientas y Despliegue 
+### Tools and Deployment
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
