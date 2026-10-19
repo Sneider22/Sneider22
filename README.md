@@ -1,4 +1,4 @@
-Markdown
+
 # Hi, I'm Sneider Araque 👋
 
 **Systems Engineer & Full-Stack Developer building scalable web applications and automated business tools.**
