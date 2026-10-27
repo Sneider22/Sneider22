@@ -59,10 +59,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sneider22&theme=tokyonight&hide_border=true&locale=es" height="160"/>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sneider22/Sneider22/output/snake.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sneider22/Sneider22/output/snake-light.svg" />
-    <img alt="Culebra comiéndose mi gráfica de contribuciones" src="https://raw.githubusercontent.com/Sneider22/Sneider22/output/snake.svg" width="100%" />
-  </picture>
-</p>
+
