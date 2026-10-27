@@ -1,20 +1,20 @@
 
-# Hi, I'm Sneider Araque 👋
+# Hola, soy Sneider Araque 👋
 
-**Systems Engineer & Full-Stack Developer building scalable web applications and automated business tools.**
-
----
-
-## Purpose of my GitHub
-
-* **Documenting my continuous learning of languages, frameworks, and tools.**
-* **Showcasing my personal projects.**
-* **Contributing to open-source projects.**
-* **Developing technological solutions focused on process optimization.**
+**Ingeniero de Sistemas y Desarrollador Full-Stack. Construyo aplicaciones web escalables y herramientas que automatizan procesos de negocio.**
 
 ---
 
-### Web Development Stack 
+## Propósito de mi GitHub
+
+* **Documentar mi aprendizaje continuo de lenguajes, frameworks y herramientas.**
+* **Mostrar mis proyectos personales y académicos.**
+* **Desarrollar soluciones web para clientes y organizaciones reales.**
+* **Crear soluciones tecnológicas enfocadas en la optimización de procesos.**
+
+---
+
+### Desarrollo Web
 
 **Frontend**
 
@@ -26,7 +26,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Backend & Database as a Service (BaaS)**
+**Backend y Bases de Datos (BaaS)**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-1C1C1C?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
@@ -35,7 +35,7 @@
 
 ---
 
-### Tools and Deployment
+### Herramientas y Despliegue
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) 
@@ -45,7 +45,7 @@
 
 ---
 
-### Academic Background - Languages
+### Formación Académica - Lenguajes
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-FFFFFF?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -54,7 +54,15 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sneider22&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sneider22&show_icons=true&theme=tokyonight&hide_border=true&locale=es" height="160"/>
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sneider22&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sneider22&theme=tokyonight&hide_border=true&locale=es" height="160"/>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sneider22/Sneider22/output/snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sneider22/Sneider22/output/snake-light.svg" />
+    <img alt="Culebra comiéndose mi gráfica de contribuciones" src="https://raw.githubusercontent.com/Sneider22/Sneider22/output/snake.svg" width="100%" />
+  </picture>
 </p>
