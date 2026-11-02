@@ -54,9 +54,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sneider22&show_icons=true&theme=tokyonight&hide_border=true&locale=es" height="160"/>
+  <img src="https://github-readme-stats-weld-zeta-59.vercel.app/api?username=Sneider22&show_icons=true&theme=tokyonight&hide_border=true&locale=es" height="160"/>
   &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sneider22&theme=tokyonight&hide_border=true&locale=es" height="160"/>
 </p>
-
 
