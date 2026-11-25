@@ -9,8 +9,9 @@
 
 * **Documentar mi aprendizaje continuo de lenguajes y frameworks.**
 * **Mostrar mis proyectos personales y académicos.**
-* **Desarrollar soluciones web a medida para clientes y organizaciones reales.**
 * **Crear herramientas enfocadas en la optimización y automatización de procesos.**
+* **Desarrollar soluciones web a medida para clientes y organizaciones reales.**
+
 
 ---
 
